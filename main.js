@@ -71,7 +71,7 @@ function removeGridSquares() {
 slider.oninput = function () {
     squaresPerSide = this.value;
 
-    sliderValue.textContent =  `$(${this.value} x ${this.value} (Resolution)`
+    sliderValue.textContent =  `(${this.value} x ${this.value} (Resolution)`
 
     sliderValue.innerHTML = txt;
     removeGridSquares();

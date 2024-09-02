@@ -1,2 +1,2 @@
 # etch-a-sketch
-odin
+i had to use guide on yt
